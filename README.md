@@ -2,7 +2,7 @@
 ---
 
 <h5>Comando para criar uma migration </h5>
-yarn typeorm migration:create -n create_images
+yarn typeorm migration:create -n create_NomeDaTabela
 
 ---
 <h5>Comando para rodar uma migration </h5>
